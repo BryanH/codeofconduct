@@ -1,60 +1,50 @@
-codeofconduct
-=============
+# Code of Conduct / Código de Conducta
 
-####Code for America's Code of Conduct
+- [In English][eng]
+  - [How to Contribute](#how-to-contribute-to-this-code-of-conduct)
+  - [More information and incident reports](#more-information-and-incident-reports)
+- [En Español][esp]
+  - [Cómo contribuir](#cómo-contribuir-a-este-código-de-conducta)
+  - [Más Información o reportar incidentes](#más-información-o-reporte-de-incidentes)
 
-The Code for America community expects that Code for America network activities and events:
+## Code for America Code of Conduct
 
-1. Are a safe and respectful environment for all participants.
-2. Are a place where people are free to fully express their identities.
-3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
-4. Don’t assume everyone has the same context, and encourage questions.
-5. Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
-6. Encourage members and participants to listen as much as they speak.
-7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
-8. Prioritize access for and input from those who are traditionally excluded from the civic process.
-9. Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups.
-10. Actively involve community groups and those with subject matter expertise in the decision-making process.
-11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
-12. Provide an environment where people are free from discrimination or harassment.
+In Code for America we believe that everybody should feel comfortable, accepted, and safe.
 
-Code for America reserves the right to bar anyone in violation of these policies from participation in Code for America events or network activities.
+For this reason our Code of Conduct is very important and guides all interactions in our event and properties. Please take some time to read our [Code of Conduct](code-of-conduct-en.md).
 
-####Code for America's Anti-Harassment Policy
+### How to contribute to this code of conduct
 
-All Code for America events and their staff, presenters, and participants are held to this anti-harassment policy. We expect participants to follow this code of conduct at all Code for America network activities and social events.
+Our code of conduct is a living document that our community can help change and evolve. There's a couple of ways you can do this:
 
-In addition to governing our own events by this policy, Code for America will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
+1. You can create an Issue with your comments and suggestions.
+2. You can create a Pull Request to suggest your changes directly.
 
-Code for America is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may expelled from Code for America events or network activities, at the discretion of the event organizers.
+We await your contributions :heart:
 
-Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
+### More information and incident reports
 
-As a general rule, "yes" means **yes**; "no" means **no**; and "maybe" means **no**. You are encouraged to ask for unequivocal consent for all activities during the conference; this includes touching other people (e.g., hands on shoulders, hugs, etc).
+If you have any questions or want to report a violation to our code of conduct please contact **safespace** at **codeforamerica.org**.
 
-If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender, expulsion or sanctioning from future Code for America events and network activities. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. You can contact them at `[EVENT ORGANIZER EMAIL AND PHONE NUMBER]`. Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+## Código de Conducta
 
-If you cannot reach an event organizer and/or it is an emergency, please call 911 and/or remove yourself from the situation.
+En Code for America creemos que todxs deben sentirse cómodos, aceptados y seguros.
 
-You can also contact Code for America about harassment at safespace@codeforamerica.org using the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+Por esta razón nuestro código de conducta de Code for America tiene mucha importancía y guia toda interacción en nuestros eventos y propiedades. Por favor tome un momento para leer la [versión en Español](code-of-conduct-es.md).
 
-We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
+### Cómo contribuir a este código de conducta
 
-####Email Template for Anti-Harassment Reporting
+Nuestro código de conducta es un documento viviente que nuestra comunidad puede ayudar a cambiar y evolucionar. Puedes hacer esto de varias maneras:
 
-SUBJECT: Safe Space alert at `[EVENT NAME]`
+1. Puedes abrir un Issue con tus comentarios y/o sugerencias.
+2. Puedes someter un Pull Request para sugerir cambios a los documentos en este repositorio.
 
-I am writing because of harassment at a Code for America Communities event, `[NAME, PLACE, DATE OF EVENT]`.
+Esperamos sus contribuciones :heart:
 
-`[DESCRIBE THE VIOLATION: WHAT, WHERE, WHEN, HOW, WHO]`
+### Más información o reporte de incidentes
 
-You can reach me at `[CONTACT INFO]`. Thank you.
+Si tienes alguna pregunta o quieres reportar una violación a nuestro código de conducta por favor contacte **safespace** at **codeforamerica.org**.
 
-####Acknowledgements
-
-This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
-
-This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
-
+[eng]: https://github.com/codeforamerica/codeofconduct/blob/master/code-of-conduct-en.md
+[esp]: https://github.com/codeforamerica/codeofconduct/blob/master/code-of-conduct-es.md
